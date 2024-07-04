@@ -1,8 +1,10 @@
 ### **Atomic Design with Next.js and Tailwind CSS**
 
-This repository is a [Next.js](https://nextjs.org/) project that demonstrates how to implement Atomic Design principles using React and Tailwind CSS. It is accompanied by a comprehensive article that guides you through the process of building a scalable and maintainable e-commerce product page.
+This repository is a [Next.js](https://nextjs.org/) project that demonstrates how to implement Atomic Design principles using React and Tailwind CSS. It is accompanied by a comprehensive article that guides you through the process of building a scalable e-commerce product page using the Atomic Design Pattern.
 
 The article, which provides a detailed explanation and step-by-step instructions, can be found here: [Implementing Atomic Design in React with Tailwind CSS](https://medium.com/@james-sheen/implementing-atomic-design-in-react-95a2e6b8db21).
+
+_This repository contains contrived example components that demonstrate the application of Atomic Design principles to React components. The examples provided are simplified to illustrate the concepts clearly and may not represent the full complexity of a real world application._
 
 ## **Getting Started**
 
